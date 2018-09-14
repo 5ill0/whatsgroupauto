@@ -1,0 +1,30 @@
+{
+  "name": "whatsgroupauto",
+  "version": "1.0.0",
+  "description": "Create and generate whatsApp group link by automation",
+  "main": "conf.js",
+  "dependencies": {
+    "clipboardy": "1.2.3",
+    "fs": "0.0.1-security",
+    "protractor": "5.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "protractor conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/5ill0/whatsgroupauto.git"
+  },
+  "keywords": [
+    "whatsApp",
+    "groupLink",
+    "Automation"
+  ],
+  "author": "Khalil Hamze",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/5ill0/whatsgroupauto/issues"
+  },
+  "homepage": "https://github.com/5ill0/whatsgroupauto#readme"
+}

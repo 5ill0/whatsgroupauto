@@ -1,2 +1,2 @@
-# whatsgroupauto
-create and generate whatsApp group link automation
+# Whatsgroupauto
+Create and generate whatsApp group link automation
